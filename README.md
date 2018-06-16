@@ -1,2 +1,2 @@
 # CompetitiveProg
-A repo that will contain the most basic programming problem to competive programming
+A repo that will contain the most basic programming problem to competetive programming
